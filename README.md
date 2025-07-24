@@ -22,5 +22,5 @@ This is a simple and interactive chatbot built using **Streamlit** and powered b
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-chatbot-repo.git
-cd your-chatbot-repo
+git clone https://github.com/sailesh818/chatbot.git
+cd chatbot
